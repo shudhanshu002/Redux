@@ -1,3 +1,9 @@
+01.redux-intro/node_modules
+01.redux-intro/.parcel-cache
+01.redux-intro/dist
+
+02.manage_complex_state/node_modules
+
 03.Creating_multiple_reducers/node_modules
 03.Creating_multiple_reducers/.parcel-cache
 03.Creating_multiple_reducers/dist
